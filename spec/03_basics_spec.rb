@@ -26,6 +26,8 @@ end
 
 
 describe '42 finder' do
+    it 'returns 42' do
+        expect(array_42)
   # array_42 takes an array as parameter and returns:
   # - true if there's a 42 in the array items
   # - false otherwise
